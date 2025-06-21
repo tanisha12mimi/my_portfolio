@@ -547,7 +547,7 @@ label{
 
 
 /* css for small screen */
-@mediaonly screen and (max-width: 768px) {
+@mediaonly screen and (max-width: 900px) {
     nav .nav-inner {
       flex-direction: column;
       align-items: center;
